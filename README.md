@@ -1,6 +1,7 @@
 # DurationCalculationOnTaskFromDescription
 
 *Requirement:*
+
 Calculate Fied "Duration (in second)" by parsing the time entry in Description long text area field. For example, the description has time entry in given format:
 
 
